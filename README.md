@@ -1,8 +1,13 @@
-수업 목록 
+# 수업 목록 
 
-파이썬데이터처리 
-데이터시각화 
-데이터처리와활용
-인공지능
-알고리즘
+---
 
+### 3학년 2학기 수업 목록
+
++ AI를 위한 수학의 기초 Introduction to Mathmatical Statistics
++ 표본 조사론 Sampling Technique
++ 바이오 통계학 Fundamentals of Biostatistics
++ 실험 계확과 응용 Experimental Designs
+
++ UNIX Systems
++ Machine Learning
